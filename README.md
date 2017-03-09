@@ -2,7 +2,6 @@ Python Port Scanner
 
 Usage
 
-
 Enter a host: 192.168.207.122
 ----------------------------------------------------------------------
 Scanning remote host 192.168.207.122
